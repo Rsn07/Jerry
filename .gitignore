@@ -1,0 +1,10 @@
+.build/
+.dart_tool/
+.packages
+.idea/
+.vscode/
+ios/Pods/
+android/.gradle/
+build/
+**/local.properties
+**/flutter_*.png

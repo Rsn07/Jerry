@@ -1,6 +1,6 @@
 name: jerry
 description: Jerry - AI Dev Assistant (Ultra)
-publish_to: 'none'
+publish_to: none
 version: 0.1.0+1
 
 environment:
@@ -24,5 +24,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.1
+
 flutter:
   uses-material-design: true
